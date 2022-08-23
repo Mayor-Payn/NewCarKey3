@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fon_fassad">
+
+
+
+    <ImageButton
+        android:id="@+id/start_app"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:background="@drawable/fassad_start"/>
+
+    <ImageButton
+
+        android:id="@+id/policy_prived"
+        android:layout_below="@id/start_app"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/fassad_policy"/>
+
+    <ImageButton
+        android:id="@+id/exit_app"
+        android:layout_below="@id/policy_prived"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/fassad_exit"/>
+
+    <LinearLayout
+        android:id="@+id/banner_layout"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

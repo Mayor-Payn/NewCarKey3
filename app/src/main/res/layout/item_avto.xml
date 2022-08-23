@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="4dp"
+    android:id="@+id/cardView">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/key_avto_recyclerbig"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:scaleType="centerCrop"
+            android:background="@color/fon_left_navigation"/>
+
+
+        <TextView
+            android:id="@+id/name_avto_recycler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/key_avto_recyclerbig"
+            android:text="Автомобиль"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:textColor="@color/color_text"
+            android:padding="4dp"
+            android:background="@color/nazvanie_avto"
+            android:paddingStart="20dp"/>
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

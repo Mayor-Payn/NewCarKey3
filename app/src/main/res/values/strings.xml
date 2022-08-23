@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Car key </string>
+
+
+    <string name="idBannerYandex" translatable="false">R-M-DEMO-320x50</string>
+
+    <string name="idInterYandex" translatable="false">R-M-DEMO-interstitial-video</string>
+
+
+    <string name="id_application" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="id_ads_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="id_ads_inter" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="url_json" translatable="false">http://kubiner.beget.tech/car_key_app/car_key/car_key_simulator.txt</string>
+
+
+    //Driver navigation
+
+    <string name="driwer_more_app">More apps</string>
+    <string name="driwer_rate_app">Rate application</string>
+    <string name="driwer_email_dev">Email developer</string>
+    <string name="driwer_privacy_policy">Privacy policy</string>
+    <string name="driwer_privacy_policy_url">https://drive.google.com/file/d/1VU_2BPvCseLCveggWAewavmN15M068bV/view?usp=sharing</string>
+    <string name="driwer_share">Share</string>
+    <string name="driwer_exit">Exit</string>
+
+    //Dialog rate app
+    <string name="dialog_dialog" translatable="false">Rate the app</string>
+    <string name="dialog_vopros">Did you like our app?</string>
+    <string name="dialog_yes" translatable="false">YES</string>
+    <string name="dialog_no" translatable="false">NO</string>
+    <string name="dialog_title_mail" translatable="false">Send us an mail</string>
+    <string name="dialog_new_mail" translatable="false">Suggestion for improvement</string>
+
+    <string name="open_driwer" translatable="false">Open</string>
+    <string name="close_driwer" translatable="false">Close</string>
+
+    //Messages splash
+    <string name="splash_warning" translatable="false">Warning</string>
+    <string name="splash_no_internet" translatable="false">No internet connection</string>
+    <string name="splash_restart" translatable="false">Restart app</string>
+    <string name="splash_close" translatable="false">Close app</string>
+
+    <string name="app_exit" translatable="false">Click again to exit</string>
+    <string name="mail_developerman" translatable="false">vladislavsavenko61@gmail.com</string>
+    <string name="url_store_play" translatable="false">https://play.google.com/store/apps/developer?id=Vlad+App</string>
+
+</resources>

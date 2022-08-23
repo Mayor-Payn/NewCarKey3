@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546e7a</color>
+    <color name="colorPrimaryDark">#37474f</color>
+    <color name="colorAccent">#000000</color>
+    <color name="nazvanie_avto">#ff6f00</color>
+    <color name="goluboi">#26a69a</color>
+
+    <color name="orange">#ff6f00</color>
+    <color name="color_text">#fafafa</color>
+
+
+    <color name="fon_splash">#03A9F4</color>
+    <color name="fon_toolbar_botnavigation">#546e7a</color>
+    <color name="fon_left_navigation">#78909c</color>
+</resources>

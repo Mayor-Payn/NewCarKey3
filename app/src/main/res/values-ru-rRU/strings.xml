@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ключи от машины</string>
+
+
+    <string name="dialog_vopros">Понравилось ли Вам наше приложение?</string>
+
+    //Driver navigation
+    <string name="driwer_more_app">Другие приложения</string>
+    <string name="driwer_rate_app">Оценить приложение</string>
+    <string name="driwer_email_dev">Сообщение разработчику</string>
+    <string name="driwer_privacy_policy">Политика конфиденциаль.</string>
+    <string name="driwer_privacy_policy_url">https://drive.google.com/file/d/1LDI406HQYmVlNi2l8EKR1R-3g6IO7hwU/view?usp=sharing</string>
+    <string name="driwer_share">Поделиться</string>
+    <string name="driwer_exit">Выход</string>
+</resources>

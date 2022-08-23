@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_more"
+        android:icon="@drawable/ic_more_vert"
+        android:title="@string/driwer_more_app" />
+
+    <item
+        android:id="@+id/bottom_rate"
+        android:icon="@drawable/ic_star_black"
+        android:title="@string/driwer_rate_app"/>
+
+    <item
+        android:id="@+id/bottom_mail"
+        android:icon="@drawable/ic_mail"
+        android:title="@string/driwer_email_dev"/>
+
+    <item
+        android:id="@+id/bottom_policy"
+        android:icon="@drawable/ic_content_paste_black_24dp"
+        android:title="@string/driwer_privacy_policy"/>
+
+    <item
+        android:id="@+id/bottom_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/driwer_share"/>
+
+    <item
+        android:id="@+id/bottom_exit"
+        android:icon="@drawable/ic_exit_app"
+        android:title="@string/driwer_exit"/>
+
+</menu>
